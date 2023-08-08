@@ -1,0 +1,6 @@
+name: Endroid Qr Code
+description: Generates Qr Code using Endroid Library.
+type: module
+package: other
+core_version_requirement: ^8 || ^9 || ^10
+configure: endroid_qr_code.admin_settings
