@@ -4,6 +4,6 @@
     "type": "drupal-module",
     "license": "GPL-2.0+",
     "require": {
-        "endroid/qr-code-bundle": "^3.4"
+        "endroid/qr-code-bundle": "^4.0"
     }
 }
